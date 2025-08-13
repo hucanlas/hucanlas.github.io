@@ -1,0 +1,106 @@
+body {
+    background-color:#16365d;
+    background-size: cover;
+    font-family: Arial;
+}
+
+.head1 {
+    color:white;
+    text-align: right;
+    padding-left: 94%;
+}
+
+p {
+    color:white;
+}
+
+li {
+    color:white;
+}
+
+.tables {
+    color:red;
+    font-style: italic;
+}
+
+.footers {
+    color: rgb(255, 1 ,242);
+    font-weight: bold;
+}
+
+.document {
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.media {
+    color: red;
+    text-align: center;
+}
+
+.pcd {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.selected {
+    color: blue;
+    font-weight: bold;
+}
+
+.quick {
+    color: #13e637;
+    font-weight: bold;
+}
+
+.format {
+    color: white;
+    background-color: black;
+    margin-right: 50%;
+    padding-bottom: 30px;
+    border-top: 1px solid red;
+}
+
+.text1 {
+    color: blue;
+    font-style: italic;
+}
+
+.theme {
+    color:red;
+    font-weight: bold;
+}
+
+.galleries {
+    background-color: #13e637;
+    color: black;
+    font-weight: bold;
+}
+
+.controls {
+    color:#13e637;
+}
+
+.controls1 {
+    color: white;
+    background-color: black;
+    padding: 25px;
+    border-left: 1px solid red;
+    border-right: 1px solid yellow;
+    font-style: italic;
+}
+
+.galleries1 {
+    color: yellow;
+    font-weight: bold;
+    margin-right: 60%;
+    padding-left: 14%;
+    border-bottom: 1px solid yellow;
+
+}
+
+.galleries2 {
+    color: white;
+    background-color:red;
+}

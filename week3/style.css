@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+body {
+    background-image: url("images/image1.png");
+    background-size: cover;
+}
+
+h1 {
+    font-family: "Patrick Hand", cursive;
+    color:red;
+    background-color: white;
+    border-right: 2px solid black;
+    padding: 50px;
+    width: 25%;
+}
+
+p{
+    color:blue;
+    background-color: blanchedalmond;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.par1{
+    color:green;
+    background-color: blanchedalmond;
+}
+
+.myspan{
+    color:purple;
+    text-decoration: underline;
+}
