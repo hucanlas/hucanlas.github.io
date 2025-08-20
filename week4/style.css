@@ -1,0 +1,60 @@
+.box{
+    width: 100%;
+    height: 100px;
+}
+
+.box1{
+    background-color: blue;
+}
+
+.box2{
+    background-color: coral;
+}
+
+.box3{
+    background-color: darkgoldenrod;
+}
+
+.container{
+    display: flex;
+}
+
+.box4{
+    background-color: darkgreen;
+    width: 50%;
+    height: 100px;
+}
+
+.box5{
+    background-color: darkkhaki;
+    width: 100%;
+    height: 100px;
+}
+
+.container1{
+    display: flex;
+}
+
+.box6{
+    background-color: darkmagenta;
+    height: 50px;
+}
+
+.box7{
+    background-color: darkolivegreen;
+    height: 50px;
+}
+
+.container2{
+    display: flex;
+}
+
+.box8{
+    background-color: darkorange;
+    width: 100%;
+    height: 100px;
+}
+
+.inner_container3{
+    width: 50%;
+}
