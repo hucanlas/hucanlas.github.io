@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container-wrapper {
+    display: flex;
+    gap: 10px;
+    width: 46%;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 0 0 3px;
+}
+
+.wifi {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.wifi:hover{
+    background-color: #004588;
+    color: white;
+}
+
+.bedrooms {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.bedrooms:hover{
+    background-color: #004588;
+    color: white;
+}
+
+.bathroom {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.bathroom:hover{
+    background-color: #004588;
+    color: white;
+}
+
+.sqft {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.sqft:hover{
+    background-color: #004588;
+    color: white;
+}
+
+h2 {
+    margin: 0;
+}
+
