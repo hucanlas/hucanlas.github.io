@@ -27,7 +27,7 @@ body {
 }
 
 .navbar2 {
-    width: 35%;
+    width: 55%;
     display: flex;
     color: white;
     padding: 10px;
@@ -102,7 +102,7 @@ body {
 }
 
 .plane1 {
-    width: 250%;
+    width: 60%;
     height: 10%;
     justify-content: left;
 }
